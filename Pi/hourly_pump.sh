@@ -10,7 +10,7 @@ do
 		if [ $msg -lt "100" ]
 		then
 		#	echo "Moisture below threshold for hourly watering"
-			bash /home/pi/Portfolio/start_pump.sh $plant
+			bash /home/pi/emli_team_20/Pi/start_pump.sh $plant
 		#else
 		#	echo "Moisture level above threshold for hourly watering"
 		fi

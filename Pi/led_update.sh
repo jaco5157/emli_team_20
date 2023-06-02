@@ -1,3 +1,4 @@
+#!/bin/bash
 # Initially there are no warnings
 warnings=false
 
